@@ -1,0 +1,79 @@
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: #2196F3;
+}
+.grid-item1 {
+    background-color: rgba(10, 255, 0, 0.4);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+.grid-item2 {
+    background-color: rgba(10, 255, 0, 0.4);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+.grid-item3 {
+    background-color: rgba(10, 255, 0, 0.4);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+.grid-item4 {
+    background-color: rgba(10, 255, 0, 0.4);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+.grid-item5 {
+    background-color: rgba(10, 255, 0, 0.4);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+.grid-item6 {
+    background-color: rgba(10, 255, 0, 0.4);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+.grid-item7 {
+    background-color: rgba(10, 255, 0, 0.4);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+.grid-item8 {
+    background-color: rgba(10, 255, 0, 0.4);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+.grid-item9 {
+    background-color: rgba(10, 255, 0, 0.4);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+#Progress {
+    width: 25%;
+    background-color: #04AA6D;
+}
+
+#Bar{
+    width: 1%;
+    height: 30px;
+    background-color: #FF0000;
+}
